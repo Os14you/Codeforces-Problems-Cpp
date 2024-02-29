@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=12F707&center=true&random=false&width=1000&height=80&lines=Welcome+To+My+Repo" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/os14-you/Codeforces-Problems-Cpp?logo=sidequest&color=red"> • <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/os14-you/Codeforces-Problems-Cpp?logo=commitlint&labelColor=grean&color=green"> • <img alt="Static Badge" src="https://img.shields.io/badge/No._Problems_Solved-26-1">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/os14-you/Codeforces-Problems-Cpp?logo=sidequest&color=red"> • <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/os14-you/Codeforces-Problems-Cpp?logo=commitlint&labelColor=grean&color=green"> • <img alt="Static Badge" src="https://img.shields.io/badge/No._Problems_Solved-27-1">
 
 
 </p>
