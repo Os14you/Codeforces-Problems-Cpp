@@ -3,7 +3,7 @@ using std::cout,std::cin;
 int main(){
     std::string name;
     cin>>name;
-    int rotations {},cur_pos {},len {name.size()},i {};
+    int rotations {},cur_pos {},len {(int)name.size()},i {};
     while(len--){
         int next_char = name[i++] - 'a';
         if(next_char == cur_pos) continue;
